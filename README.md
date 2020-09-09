@@ -1,5 +1,5 @@
 
-*******Main Scenario*********** 
+*Main Scenario*
 
 My AVL app and rules consists of 
 1. Adding cars to Lane
